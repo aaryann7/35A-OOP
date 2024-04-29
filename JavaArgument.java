@@ -9,6 +9,7 @@ public class JavaArgument {
         System.out.println("Firstargs" + args[0]);
         System.out.println("Secondargs" + args[1]);
         int parsedValue = Integer.parseInt(args[1]);
+        
 
     }
     
