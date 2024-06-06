@@ -38,12 +38,6 @@ public class InputOutput {
         int parseInt = Integer.parseInt (intString);
         System.out.println(parseInt);
 
-
-        
-
-
-
-        
     }
     
 }
